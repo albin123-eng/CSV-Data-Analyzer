@@ -1,0 +1,11 @@
+student_id,subject,score,minutes_studied,Mark_Comment
+1001,Maths,78,90,Very Good
+1002,CS,65,70,Good
+1003,Maths,91,120,Excellent
+1004,FM,55,60,Average
+1005,CS,39,40,High Risk
+1006,Maths,48,50,At Risk
+1007,FM,84,110,Excellent
+1008,CS,72,80,Very Good
+1009,FM,33,35,High Risk
+1010,Maths,88,100,Excellent
